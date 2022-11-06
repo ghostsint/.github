@@ -1,0 +1,2 @@
+# GhostSint
+- Coming Soon
